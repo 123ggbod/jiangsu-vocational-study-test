@@ -43,7 +43,7 @@
 2. 赞赏不提供任何形式的VIP、答疑、定制服务。
 
 <div align="center">
-<img src="<img width="720" height="996" alt="Image" src="https://github.com/user-attachments/assets/dd6fafec-8f51-4039-ab32-6bddaa85c0be" />" width="240" alt="微信自愿赞赏">
+<img src="https://github.com/user-attachments/assets/dd6fafec-8f51-4039-ab32-6bddaa85c0be" width="240" alt="微信自愿赞赏">
 <br>
 微信 · 自愿打赏
 </div>
