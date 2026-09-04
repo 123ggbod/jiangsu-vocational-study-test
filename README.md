@@ -25,6 +25,9 @@
 - ⏱️考试倒计时，时间结束自动交卷
 - 🖼️支持电工电子等专业带图题目
 - 支持导入导出JSON题库
+ ## 🛠️开发环境
+ 本项目基于 **Codex** AI编程助手进行开发；通过 CC‑Switch 配置代理，使Codex调用DeepSeek大模型完成代码编写、调试工作。由开发者主导需求设计、功能规划与最终代码审核。
+ > 说明：DeepSeek 提供代码生成能力，CC‑Switch作为渠道配置工具，Codex为编程客户端，全部功能方案由本人设计实现。
 ## 📥下载入口
 - 📱安卓APK安装包 → 前往 [Releases](https://github.com/123ggbod/jiangsu-vocational-study-test/releases) 下载
 > APK安装提示：手机需要开启「未知来源应用安装」权限才可正常安装。
